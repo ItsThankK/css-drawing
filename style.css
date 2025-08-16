@@ -34,7 +34,31 @@ body {
 .container-1 .diamond span:nth-child(2) {
   position: absolute;
   top: 0;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-top: 50px solid yellow;
+  border-right: 50px solid red;
+  border-bottom: 50px solid blue;
+  border-left: 50px solid green;
+}
+
+.container-1 .diamond span:nth-child(3) {
+  position: absolute;
+  top: 50%;
   left: 0;
+  width: 0;
+  height: 0;
+  border-top: 50px solid yellow;
+  border-right: 50px solid red;
+  border-bottom: 50px solid blue;
+  border-left: 50px solid green;
+}
+
+.container-1 .diamond span:nth-child(4) {
+  position: absolute;
+  top: 50%;
+  left: 50%;
   width: 0;
   height: 0;
   border-top: 50px solid yellow;
