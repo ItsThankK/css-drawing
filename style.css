@@ -16,7 +16,7 @@ body {
 .container-1 .diamond {
   position: relative;
   width: 200px;
-  height: 300px;
+  height: 200px;
 }
 
 .container-1 .diamond span:nth-child(1) {
