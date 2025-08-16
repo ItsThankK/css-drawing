@@ -25,10 +25,10 @@ body {
   left: 0;
   width: 0;
   height: 0;
-  border-top: 50px solid yellow;
+  border-top: 50px solid transparent;
   border-right: 50px solid red;
   border-bottom: 50px solid blue;
-  border-left: 50px solid green;
+  border-left: 50px solid transparent;
 }
 
 .container-1 .diamond span:nth-child(2) {
@@ -66,3 +66,5 @@ body {
   border-bottom: 50px solid blue;
   border-left: 50px solid green;
 }
+
+
