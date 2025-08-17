@@ -76,7 +76,7 @@ body {
 .container-2 .card {
   width: 0;
   height: 0;
-  border-top:  100px solid #eee;
+  border-top: 100px solid #eee;
   border-right: 170px solid #ddd;
   border-bottom: 100px solid #ccc;
   border-left: 170px solid #ccc;
@@ -88,6 +88,7 @@ body {
   height: 32px;
   background-color: red;
   transform: translate(-50%, -50%) rotate(45deg);
+  animation: heartbeat 2s linear infinite;
 }
 
 .container-2 .card .heart::before {
@@ -116,21 +117,18 @@ body {
 
 @keyframes heartbeat {
   0% {
-    transform: scale(1);
+    transform: translate(-50%, -50%) rotate(45deg) scale(1);
   }
   25% {
-    transform: scale(1.1);
+    transform: translate(-50%, -50%) rotate(45deg) scale(1.1);
   }
   50% {
-    transform: scale(1.2);
+    transform: translate(-50%, -50%) rotate(45deg) scale(1.2);
   }
   75% {
-    transform: scale(1.1);
+    transform: translate(-50%, -50%) rotate(45deg) scale(1.1);
   }
   100% {
-    transform: scale(1);
+    transform: translate(-50%, -50%) rotate(45deg) scale(1);
   }
 }
-
-
-
