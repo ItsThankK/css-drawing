@@ -157,3 +157,14 @@ body {
   left: 240px;
   transform: rotate(-18deg);
 }
+
+.container-3 .pepsi::after {
+  position: absolute;
+  content: "";
+  height: 500px;
+  width: 550px;
+  border-radius: 50%;
+  background-color: #da473c;
+  top: -100px;
+  left: 180px;
+}
