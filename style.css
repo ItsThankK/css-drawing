@@ -369,3 +369,13 @@ body {
   background-color: #fdff00;
 }
 
+.ears {
+  position: absolute;
+  top: 0;
+  left: 95px;
+  width: 11px;
+  border-bottom: 12px solid yellow;
+  border-left: 6px solid black;  
+  border-right: 6px solid black;
+  transform: rotate(180deg);
+}
