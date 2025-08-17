@@ -330,3 +330,22 @@ body {
   border-radius: 50%;
   transform: rotate(15deg);
 }
+
+.o5 {
+  position: absolute;
+  top: 0;
+  left: 57px;
+  width: 37px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #fdff00;
+}
+
+.sq1 {
+  position: absolute;
+  top: 0;
+  left: 74px;
+  height: 20px;
+  width: 20px;
+  background-color: #fdff00;
+}
