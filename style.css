@@ -38,10 +38,10 @@ body {
   left: 50%;
   width: 0;
   height: 0;
-  border-top: 50px solid yellow;
-  border-right: 50px solid red;
-  border-bottom: 50px solid blue;
-  border-left: 50px solid green;
+  border-top: 50px solid #1fb67c;
+  border-right: 50px solid #20bc70;
+  border-bottom: 50px solid #26c893;
+  border-left: 50px solid #55ddb9;
 }
 
 .container-1 .diamond span:nth-child(3) {
