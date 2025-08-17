@@ -568,6 +568,10 @@ body {
   top: -8px;
 }
 
+.container-10 {
+  background-color: white;
+}
+
 .wrap {
   width: 150px;
   height: 150px;
