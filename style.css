@@ -223,3 +223,13 @@ body {
   border-radius: 50%;
   box-shadow: 0 4px 0 #c0c0c0;
 }
+
+.container-4 .camera .button {
+  position: absolute;
+  left: 20px;
+  top: -5px;
+  width: 30px;
+  height: 5px;
+  background-color: #009587;
+  border-radius: 60px;
+}
