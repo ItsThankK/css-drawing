@@ -452,9 +452,20 @@ body {
 }
 
 .gear {
+  position: relative;
   width: 110px;
   height: 110px;
   background-color: #5dc59d;
   border-radius: 50%;
 }
 
+.gearinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 55px;
+  height: 55px;
+  background-color: white;
+  border-radius: 50%;
+  transform: translate(-50%,-50%);
+}
