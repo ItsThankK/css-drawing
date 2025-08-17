@@ -83,10 +83,22 @@ body {
 }
 
 .container-2 .card .heart {
+  position: relative;
   width: 32px;
   height: 32px;
   background-color: red;
   transform: translate(-50%, -50%);
+}
+
+.container-2 .card .heart::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: blue;
+  transform: translateY(-50%);
 }
 
 
