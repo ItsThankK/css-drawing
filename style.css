@@ -279,6 +279,9 @@ body {
   background-color: #fdff00;
   border-radius: 50%;
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container-6 .oval .logo {
