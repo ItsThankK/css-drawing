@@ -341,6 +341,16 @@ body {
   background-color: #fdff00;
 }
 
+.o6 {
+  position: absolute;
+  top: 0;
+  right: 57px;
+  width: 37px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #fdff00;
+}
+
 .sq1 {
   position: absolute;
   top: 0;
@@ -349,3 +359,4 @@ body {
   width: 20px;
   background-color: #fdff00;
 }
+
