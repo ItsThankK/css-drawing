@@ -481,3 +481,10 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.bar:nth-child(1) {
+  transform: translate(-50%, -50%) rotate(60deg);
+}
+
+.bar:nth-child(3) {
+  transform: translate(-50%, -50%) rotate(-60deg);
+}
