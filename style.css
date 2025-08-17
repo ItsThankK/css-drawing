@@ -198,4 +198,14 @@ body {
   width: 105px;
   height: 105px;
   background-color: #00695c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-4 .camera .lens .innerlens2 {
+  border-top: 31px solid #00897b;
+  border-right: 31px solid #46adac;
+  border-bottom: 31px solid #80cbca;
+  border-left: 31px solid #26a69a;
 }
