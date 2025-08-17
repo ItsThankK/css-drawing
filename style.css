@@ -292,4 +292,15 @@ body {
   border-radius: 50%;
 }
 
+.o1 {
+  position: absolute;
+  background-color: blue;
+  width: 33px;
+  height: 70px;
+  border-radius: 50%;
+  top: 67px;
+  left: 44px;
+  transform: rotate(-41deg);
+}
+
 
