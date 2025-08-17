@@ -245,4 +245,6 @@ body {
   height: 150px;
   background-color: #3f2616;
   border-radius: 50%;
+  box-shadow: 0 0 0 10px #442918;
 }
+
