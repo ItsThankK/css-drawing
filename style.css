@@ -139,11 +139,13 @@ body {
 }
 
 .container-3 .pepsi {
+  position: relative;
   height: 300px;
   width: 300px;
   background-color: #34588e;
   border-radius: 50%;
   border: 10px solid white;
+  overflow: hidden;
 }
 
 .container-3 .pepsi::before {
@@ -153,8 +155,8 @@ body {
   width: 500px;
   background-color: white;
   border-radius: 25%;
-  top: 10px;
-  left: 240px;
+  top: -160px;
+  left: -240px;
   transform: rotate(-18deg);
 }
 
@@ -165,6 +167,6 @@ body {
   width: 550px;
   border-radius: 50%;
   background-color: #da473c;
-  top: -100px;
-  left: 180px;
+  top: -275px;
+  left: -300px;
 }
