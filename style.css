@@ -12,7 +12,8 @@ body {
 .container-6,
 .container-7,
 .container-8,
-.container-9 {
+.container-9,
+.container-10 {
   height: 100vh;
   width: 100%;
   display: flex;
