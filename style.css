@@ -256,3 +256,10 @@ body {
   20px 250px 0 -65px #3c2415;
 }
 
+.container-5 .coffe-mug::before {
+  content: "";
+  position: absolute;
+  height: 75px;
+  width: 60px;
+  background-color: #e49934;
+}
