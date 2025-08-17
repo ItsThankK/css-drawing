@@ -145,3 +145,15 @@ body {
   border-radius: 50%;
   border: 10px solid white;
 }
+
+.container-3 .pepsi::before {
+  content: "";
+  position: absolute;
+  height: 400px;
+  width: 500px;
+  background-color: white;
+  border-radius: 25%;
+  top: 10px;
+  left: 240px;
+  transform: rotate(-18deg);
+}
