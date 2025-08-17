@@ -566,3 +566,9 @@ body {
   left: 70px;
   top: -8px;
 }
+
+.wrap {
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
