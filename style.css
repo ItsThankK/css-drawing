@@ -1,5 +1,4 @@
 body {
-  background-color: rosybrown;
   display: flex;
   flex-direction: column;
   gap: 50px;
@@ -11,6 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rosybrown;
 }
 
 .container-1 .diamond {
