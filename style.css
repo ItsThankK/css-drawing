@@ -437,3 +437,15 @@ body {
   top: 35px;
   left: 2px;
 }
+
+.arrow.left {
+  top: 16px;
+  left: -24px;
+  transform: rotate(72deg);
+}
+
+.arrow.right {
+  top: 16px;
+  left: 24px;
+  transform: rotate(-72deg);
+}
