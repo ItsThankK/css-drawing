@@ -459,6 +459,10 @@ body {
   border-radius: 50%;
 }
 
+.gear:hover {
+  animation: rotate-gear 2s linear infinite;
+}
+
 .gearinner {
   position: absolute;
   top: 50%;
@@ -487,4 +491,13 @@ body {
 
 .bar:nth-child(3) {
   transform: translate(-50%, -50%) rotate(-60deg);
+}
+
+@keyframes rotate-gear {
+  0%{
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
