@@ -281,4 +281,12 @@ body {
   position: relative;
 }
 
+.container-6 .oval .logo {
+  position: absolute;
+  width: 212px;
+  height: 112px;
+  background-color: black;
+  border-radius: 50%;
+}
+
 
