@@ -469,3 +469,9 @@ body {
   border-radius: 50%;
   transform: translate(-50%,-50%);
 }
+
+.bar {
+  width: 170px;
+  height: 40px;
+  background-color: #5dc59d;
+}
