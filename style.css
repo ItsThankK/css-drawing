@@ -192,6 +192,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 50%;
 }
 
 .container-4 .camera .lens .innerlens {
@@ -201,6 +202,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 50%;
 }
 
 .container-4 .camera .lens .innerlens2 {
@@ -208,4 +210,5 @@ body {
   border-right: 31px solid #46adac;
   border-bottom: 31px solid #80cbca;
   border-left: 31px solid #26a69a;
+  border-radius: 50%;
 }
