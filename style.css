@@ -246,15 +246,10 @@ body {
   height: 150px;
   background-color: #3f2616;
   border-radius: 50%;
-  box-shadow: 0 0 0 10px #442918,
-  0 0 0 25px #3c2415,
-  0 0 0 42px #fe9407,
-  0 0 0 65px #feaa3a,
-  0 120px 0 -25px #3c2415,
-  100px 70px 0 -25px #3c2415,
-  80px 140px 0 -10px #3c2415,
-  0 210px 0 -55px #3c2415,
-  20px 250px 0 -65px #3c2415;
+  box-shadow: 0 0 0 10px #442918, 0 0 0 25px #3c2415, 0 0 0 42px #fe9407,
+    0 0 0 65px #feaa3a, 0 120px 0 -25px #3c2415, 100px 70px 0 -25px #3c2415,
+    80px 140px 0 -10px #3c2415, 0 210px 0 -55px #3c2415,
+    20px 250px 0 -65px #3c2415;
 }
 
 .container-5 .coffe-mug::before {
@@ -325,3 +320,13 @@ body {
   transform: rotate(-15deg);
 }
 
+.o4 {
+  position: absolute;
+  top: 73px;
+  right: 68px;
+  width: 38px;
+  height: 70px;
+  background-color: #fdff00;
+  border-radius: 50%;
+  transform: rotate(15deg);
+}
