@@ -17,6 +17,7 @@ body {
   position: relative;
   width: 200px;
   height: 200px;
+  transform: rotate(45deg);
 }
 
 .container-1 .diamond span:nth-child(1) {
