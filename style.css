@@ -474,4 +474,10 @@ body {
   width: 170px;
   height: 40px;
   background-color: #5dc59d;
+  border-radius: 7px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
+
