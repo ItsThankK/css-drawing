@@ -282,6 +282,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .container-6 .oval .logo {
@@ -294,13 +295,23 @@ body {
 
 .o1 {
   position: absolute;
-  background-color: blue;
+  background-color: #fdff00;
   width: 33px;
   height: 70px;
   border-radius: 50%;
   top: 67px;
   left: 44px;
   transform: rotate(-41deg);
+}
+.o2 {
+  position: absolute;
+  background-color: #fdff00;
+  width: 33px;
+  height: 70px;
+  border-radius: 50%;
+  top: 67px;
+  right: 44px;
+  transform: rotate(41deg);
 }
 
 
