@@ -880,3 +880,9 @@ body {
   box-sizing: border-box;
   background: linear-gradient(75deg, wheat, yellow);
 }
+
+.donut {
+  position: relative;
+  width: 200px;
+  height: 200px;
+}
