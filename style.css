@@ -718,3 +718,14 @@ body {
   left: 30%;
   border-radius: 50%;
 }
+
+.nose {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  background-color: black;
+  border-radius: 50%;
+  top: 60%;
+  left: 50%;
+  transform: translateX(-50%);
+}
