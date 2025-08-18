@@ -810,3 +810,10 @@ body {
   background-color: red;
   position: relative;
 }
+
+.adidas .shape {
+  width: 46px;
+  height: 150px;
+  background-color: #111;
+  position: absolute;
+}
