@@ -996,6 +996,8 @@ body {
 
 .part-3 {
   background-color: #a061fa;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
 }
 
 .part-4 {
