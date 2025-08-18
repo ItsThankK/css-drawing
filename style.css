@@ -919,3 +919,15 @@ body {
   border: 2px solid #003459;
   transform: translate(-50%,-50%);
 }
+
+.face {
+  width: 32px;
+  height: 16px;
+  position: absolute;
+  top: 44px;
+  left: 84px;
+  border: 3px solid #003459;
+  border-top: 0;
+  border-bottom-right-radius: 100px;
+  border-bottom-left-radius: 100px;
+}
