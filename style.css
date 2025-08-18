@@ -809,6 +809,7 @@ body {
   height: 120px;
   background-color: red;
   position: relative;
+  overflow: hidden;
 }
 
 .adidas .shape {
