@@ -1062,4 +1062,10 @@ body {
   transform: translate(-50%, -50%);
 }
 
-.container-19 .logo 
+.container-19 .logo {
+  width: 500px;
+  height: 500px;
+  background-color: #e31837;
+  border-radius: 50%;
+  position: relative;
+}
