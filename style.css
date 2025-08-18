@@ -682,3 +682,14 @@ body {
   top: 45%;
   border-radius: 0 0 115px 115px;
 }
+
+.left-ball {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border: 12px solid white;
+  top: -50%;
+  left: 30%;
+  border-radius: 50%;
+}
