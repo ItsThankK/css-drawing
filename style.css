@@ -1081,3 +1081,12 @@ body {
   border: 20px solid white;
   border-right-color: transparent;
 }
+
+.container-19 .logo .line--2 {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  background-color: white;
+  top: 50%;
+  right: 30px;
+}
