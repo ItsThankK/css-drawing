@@ -783,9 +783,17 @@ body {
 }
 
 .watermelon .span {
-  display: block;
+  display: inline-block;
   width: 10px;
   height: 10px;
   background-color: #262626;
   border-radius: 50%;
+  margin: 20px;
+}
+
+.watermelon .span:nth-child(7),
+.watermelon .span:nth-child(12),
+.watermelon .span:nth-child(13),
+.watermelon .span:nth-child(14) {
+  opacity: 0;
 }
