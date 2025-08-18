@@ -894,3 +894,15 @@ body {
   background-color: #f77778;
   border: 2px solid #003459;
 }
+
+.donut-body::before {
+   content: "";
+   position: absolute;
+   width: 93%;
+   height: 93%;
+   background-color: #faa7a8;
+   position: absolute;
+   top: 3px;
+   right: 3px;
+  border-radius: 50%;
+}
