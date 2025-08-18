@@ -817,3 +817,9 @@ body {
   background-color: #111;
   position: absolute;
 }
+
+.adidas .s1 {
+  top: 86px;
+  left: 36px;
+  background-color: blue;
+}
