@@ -1069,3 +1069,15 @@ body {
   border-radius: 50%;
   position: relative;
 }
+
+.container-19 .logo .line--1 {
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) rotate(-45deg);
+  border-radius: 50%;
+  border: 20px solid white;
+  border-right-color: transparent;
+}
