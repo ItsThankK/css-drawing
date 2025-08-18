@@ -992,6 +992,8 @@ body {
 
 .part-2 {
   background-color: #fb7266;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
 }
 
 .part-3 {
@@ -1002,6 +1004,8 @@ body {
 
 .part-4 {
   background-color: #24bdfa;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
 }
 
 .part-5 {
