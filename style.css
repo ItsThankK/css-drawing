@@ -681,6 +681,8 @@ body {
   left: 10px;
   top: 45%;
   border-radius: 0 0 115px 115px;
+  transform: rotate(30deg);
+  overflow: hidden;
 }
 
 .left-ball {
