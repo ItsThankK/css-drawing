@@ -14,7 +14,8 @@ body {
 .container-8,
 .container-9,
 .container-10,
-.container-11 {
+.container-11,
+.container-12 {
   height: 100vh;
   width: 100%;
   display: flex;
@@ -669,4 +670,12 @@ body {
   background-color: white;
   border: 12px solid black;
   border-radius: 50%;
+  position: relative;
+}
+
+.eye-left {
+  position: absolute;
+  width: 115px;
+  height: 58px;
+  background-color: black;
 }
