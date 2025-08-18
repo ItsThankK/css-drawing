@@ -971,3 +971,9 @@ body {
 .container-17 {
   background-color: black;
 }
+
+.logo {
+  width: 180px;
+  height: 270px;
+  background-color: blue;
+}
