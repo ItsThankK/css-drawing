@@ -982,3 +982,23 @@ body {
   width: 90px;
   height: 90px;
 }
+
+.part-1 {
+  background-color: #ee4e2a;
+}
+
+.part-2 {
+  background-color: #fb7266;
+}
+
+.part-3 {
+  background-color: #a061fa;
+}
+
+.part-4 {
+  background-color: #24bdfa;
+}
+
+.part-5 {
+  background-color: #00ce84;
+}
