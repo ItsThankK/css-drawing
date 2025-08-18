@@ -805,7 +805,6 @@ body {
   background: none;
 }
 
-/* background: linear-gradient(60deg, yellow, yellowgreen); */
 .adidas {
   width: 206px;
   height: 120px;
@@ -906,4 +905,17 @@ body {
    top: 3px;
    right: 3px;
   border-radius: 50%;
+}
+
+.donut-body::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: linear-gradient(75deg, wheat, yellow);
+  border: 2px solid #003459;
+  transform: translate(-50%,-50%);
 }
