@@ -953,3 +953,16 @@ body {
   background-color: #003459;
   border-radius: 50%;
 }
+
+.highlight {
+  width: 40px;
+  height: 40px;
+  border: 8px solid white;
+  border-top: 0;
+  border-right: 0;
+  position: absolute;
+  top: 105px;
+  left: 50px;
+  border-bottom-left-radius: 100%;
+  opacity: 0.5;
+}
