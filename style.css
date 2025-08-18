@@ -977,3 +977,8 @@ body {
   height: 270px;
   background-color: blue;
 }
+
+.part {
+  width: 90px;
+  height: 90px;
+}
