@@ -816,6 +816,7 @@ body {
   height: 150px;
   background-color: #111;
   position: absolute;
+  transform: rotate(-31deg);
 }
 
 .adidas .s1 {
