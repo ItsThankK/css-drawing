@@ -942,3 +942,14 @@ body {
   background-color: #003459;
   border-radius: 50%;
 }
+
+.face::after {
+  content: "";
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  top: -22px;
+  right: -16px;
+  background-color: #003459;
+  border-radius: 50%;
+}
