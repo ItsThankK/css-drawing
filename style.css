@@ -893,6 +893,7 @@ body {
   width: 100%;
   background-color: #f77778;
   border: 2px solid #003459;
+  border-radius: 50%;
 }
 
 .donut-body::before {
