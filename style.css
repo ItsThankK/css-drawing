@@ -1089,4 +1089,6 @@ body {
   background-color: white;
   top: 50%;
   right: 30px;
+  transform: translateY(-50%);
 }
+
