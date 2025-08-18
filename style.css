@@ -896,14 +896,14 @@ body {
 }
 
 .donut-body::before {
-   content: "";
-   position: absolute;
-   width: 93%;
-   height: 93%;
-   background-color: #faa7a8;
-   position: absolute;
-   top: 3px;
-   right: 3px;
+  content: "";
+  position: absolute;
+  width: 93%;
+  height: 93%;
+  background-color: #faa7a8;
+  position: absolute;
+  top: 3px;
+  right: 3px;
   border-radius: 50%;
 }
 
@@ -917,7 +917,7 @@ body {
   border-radius: 50%;
   background: linear-gradient(75deg, wheat, yellow);
   border: 2px solid #003459;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 }
 
 .face {
@@ -930,4 +930,15 @@ body {
   border-top: 0;
   border-bottom-right-radius: 100px;
   border-bottom-left-radius: 100px;
+}
+
+.face::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  position: absolute;
+  top: -22px;
+  left: -16px;
+  background-color: #003459;
+  border-radius: 50%;
 }
