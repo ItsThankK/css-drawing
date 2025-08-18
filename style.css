@@ -843,10 +843,21 @@ body {
 }
 
 .brackets {
+  position: relative;
   height: 175px;
   width: 200px;
   background-color: white;
   border-radius: 31px;
-  box-shadow: 0 0 0 28px #28a9e1,
-              0 28px 0 28px #115a91;
+  box-shadow: 0 0 0 28px #28a9e1, 0 28px 0 28px #115a91;
+}
+
+.brackets::before {
+  content: "";
+  width: 50%;
+  height: 44%;
+  background-color: red;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
