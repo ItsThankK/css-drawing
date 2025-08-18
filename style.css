@@ -678,4 +678,7 @@ body {
   width: 115px;
   height: 58px;
   background-color: black;
+  left: 10px;
+  top: 45%;
+  border-radius: 0 0 115px 115px;
 }
