@@ -685,6 +685,18 @@ body {
   overflow: hidden;
 }
 
+.eye-right {
+  position: absolute;
+  width: 115px;
+  height: 58px;
+  background-color: black;
+  right: 10px;
+  top: 45%;
+  border-radius: 0 0 115px 115px;
+  transform: rotate(-30deg);
+  overflow: hidden;
+}
+
 .left-ball {
   position: absolute;
   width: 30px;
