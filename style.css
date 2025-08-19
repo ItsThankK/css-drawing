@@ -1202,3 +1202,9 @@ body {
   background-color: white;
   border-radius: 50%;
 }
+
+.container-20 .icecream .bite2 {
+  left: 50px;
+  width: 70px;
+  height: 70px;
+}
