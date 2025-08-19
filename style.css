@@ -1180,3 +1180,12 @@ body {
 .container-20 .icecream .melting2 {
   left: 110px;
 }
+
+@keyframes melting {
+  0% {
+    bottom: 5px;
+  }
+  0% {
+    bottom: -15px;
+  }
+}
