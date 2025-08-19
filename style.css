@@ -1376,6 +1376,10 @@ body {
   top: 15px;
 }
 
-.earr--left {
+.ear--left {
   left: -60px;
+}
+
+.ear--right {
+  right: -60px;
 }
