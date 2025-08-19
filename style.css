@@ -1177,10 +1177,12 @@ body {
   left: 25px;
   animation: melting 6s ease infinite;
   animation-delay: 3s;
+  z-index: -1;
 }
 
 .container-20 .icecream .melting2 {
   left: 110px;
+  animation-delay: 1s;
 }
 
 @keyframes melting {
