@@ -1330,3 +1330,15 @@ body {
   top: -39%;
   left: 46%;
 }
+
+@keyframes eyes {
+  0% {
+    left: 44%;
+  }
+  50% {
+    left: 15%;
+  }
+  100% {
+    left: 44%;
+  }
+}
