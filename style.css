@@ -1241,3 +1241,12 @@ body {
   background-color: green;
 }
 
+.container-21 .container .eye {
+  width: 64px;
+  height: 64px;
+  background: black;
+  border-radius: 50%;
+  position: absolute;
+  top: 30%;
+  left: 13%;
+}
