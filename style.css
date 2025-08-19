@@ -1124,23 +1124,31 @@ body {
 
 .container-20 {
   background-color: yellow;
+  z-index: -10;
 }
 
 .container-20 .icecream {
   background-color: #9cd2a2;
-  width: 250px;
-  height: 400px;
+  width: 150px;
+  height: 300px;
   border-radius: 45% 45% 10% 10%;
   position: relative;
 }
 
 .container-20 .icecream .stick {
-  height: 275px;
-  width: 50px;
+  height: 175px;
+  width: 40px;
   background-color: #e6ac84;
   border-radius: 40%;
   position: absolute;
   top: 80%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, 0);
+  z-index: -1;
+}
+
+.container-20 .icecream .side {
+  height: 140px;
+  width: 40px;
+  background-color: #a5ddac;
 }
