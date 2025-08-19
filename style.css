@@ -1133,3 +1133,14 @@ body {
   border-radius: 45% 45% 10% 10%;
   position: relative;
 }
+
+.container-20 .icecream .stick {
+  height: 275px;
+  width: 50px;
+  background-color: #e6ac84;
+  border-radius: 40%;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
