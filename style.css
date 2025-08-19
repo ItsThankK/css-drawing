@@ -1193,3 +1193,12 @@ body {
     bottom: -15px;
   }
 }
+
+.container-20 .icecream .bite {
+  position: absolute;
+  left: 100px;
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  border-radius: 50%;
+}
