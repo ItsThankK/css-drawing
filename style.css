@@ -1413,3 +1413,11 @@ body {
   top: 25px;
   border-radius: 50%;
 }
+
+.k-eye-left {
+  left: 21%;
+}
+
+.k-eye-right {
+  left: 21%;
+}
