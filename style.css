@@ -1254,3 +1254,10 @@ body {
 .container-21 .container .eye.-r {
   left: 65%;
 }
+
+.container-21 .container .eye .eyeball{
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: white;
+}
