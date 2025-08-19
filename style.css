@@ -1410,7 +1410,7 @@ body {
   height: 95px;
   background-color: white;
   z-index: 3;
-  top: 25px;
+  top: 25%;
   border-radius: 50%;
 }
 
@@ -1419,5 +1419,26 @@ body {
 }
 
 .k-eye-right {
-  left: 21%;
+  right: 21%;
+}
+
+.k-pupil {
+  position: absolute;
+  width: 25px;
+  height: 29px;
+  background-color: #27354a;
+  top: 35%;
+  left: 36%;
+  border-radius: 50%;
+}
+
+.k-nose {
+  position: absolute;
+  width: 75px;
+  height: 120px;
+  background-color: #be845f;
+  z-index: 3;
+  left: 37%;
+  top: 45%;
+  border-radius: 50px;
 }
