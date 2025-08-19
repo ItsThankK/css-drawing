@@ -1405,5 +1405,11 @@ body {
 }
 
 .k-eye {
-  
+  position: absolute;
+  width: 90px;
+  height: 95px;
+  background-color: white;
+  z-index: 3;
+  top: 25px;
+  border-radius: 50%;
 }
