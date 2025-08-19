@@ -1297,7 +1297,7 @@ body {
   position: absolute;
   left: 36%;
   top: 50%;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .mouthh .tongue {
@@ -1308,4 +1308,15 @@ body {
   top: 61%;
   left: 16px;
   border-radius: 50%;
+}
+
+.mouthh::after {
+  content: "";
+  width: 64px;
+  height: 64px;
+  background-color: #fcd458;
+  border-radius: 50%;
+  position: absolute;
+  top: -39%;
+  left: -19%;
 }
