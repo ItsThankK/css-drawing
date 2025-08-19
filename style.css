@@ -1199,15 +1199,17 @@ body {
   left: 100px;
   height: 50px;
   width: 50px;
-  background-color: white;
+  background-color: yellow;
   border-radius: 50%;
   opacity: 0;
+  animation: bite 1s forwards 2s;
 }
 
 .container-20 .icecream .bite2 {
   left: 50px;
   width: 70px;
   height: 70px;
+  animation-delay: 4s;
 }
 
 .container-20 .icecream .bite3 {
@@ -1215,5 +1217,14 @@ body {
   left: 5px;
   width: 100px;
   height: 100px;
+  animation-delay: 6s;
 }
 
+@keyframes bite {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
