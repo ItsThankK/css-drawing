@@ -1264,3 +1264,13 @@ body {
   left: 44%;
   top: 13%;
 }
+
+.container-21 .container .nosee {
+  position: absolute;
+  left: 47%;
+  top: 44%;
+  width: 16px;
+  height: 16px;
+  background-color: black;
+  border-radius: 8px 8px 16px 16px;
+}
