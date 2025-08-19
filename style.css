@@ -1208,3 +1208,10 @@ body {
   width: 70px;
   height: 70px;
 }
+
+.container-20 .icecream .bite3 {
+  top: -10px;
+  left: 5px;
+  width: 100px;
+  height: 100px;
+}
