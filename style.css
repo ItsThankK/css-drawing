@@ -1262,6 +1262,7 @@ body {
   position: absolute;
   left: 44%;
   top: 13%;
+  animation: eyes 2s ease infinite;
 }
 
 .container-21 .container .nosee {
