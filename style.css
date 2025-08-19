@@ -1276,5 +1276,11 @@ body {
 }
 
 .container-21 .container .cheek {
-  
+  width: 48px;
+  height: 48px;
+  background-color: #e15b42;
+  border-radius: 50%;
+  position: absolute;
+  top: 48%;
+  left: 4%;
 }
