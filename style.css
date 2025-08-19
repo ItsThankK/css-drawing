@@ -1297,4 +1297,15 @@ body {
   position: absolute;
   left: 36%;
   top: 50%;
+  overflow: hidden;
+}
+
+.mouthh .tongue {
+  width: 64px;
+  height: 64px;
+  background-color: #e97b7c;
+  position: absolute;
+  top: 61%;
+  left: 16px;
+  border-radius: 50%;
 }
