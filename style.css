@@ -1238,7 +1238,6 @@ body {
   position: relative;
   width: 350px;
   height: 600px;
-  background-color: green;
 }
 
 .container-21 .container .eye {
@@ -1297,7 +1296,7 @@ body {
   position: absolute;
   left: 36%;
   top: 50%;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .mouthh .tongue {
@@ -1319,4 +1318,15 @@ body {
   position: absolute;
   top: -39%;
   left: -19%;
+}
+
+.mouthh::before {
+  content: "";
+  width: 64px;
+  height: 64px;
+  background-color: #fcd458;
+  border-radius: 50%;
+  position: absolute;
+  top: -39%;
+  left: 46%;
 }
