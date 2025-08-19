@@ -1112,3 +1112,11 @@ body {
   transform: translate(-50%,-50%);
 }
 
+.container-19 .logo .line--4 {
+  position: absolute;
+  width: 70px;
+  height: 20px;
+  background-color: white;
+  top: 370px;
+  left: 240px;
+}
