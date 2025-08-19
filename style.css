@@ -1101,3 +1101,10 @@ body {
   top: 120px;
   left: 130px;
 }
+
+.container-19 .logo .line--3 {
+  position: absolute;
+  width: 20px;
+  height: 250px;
+  background-color: white;
+}
