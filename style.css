@@ -1037,7 +1037,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%) rotate(60deg);
+  transform: translate(-50%, -50%) rotate(60deg);
 }
 
 .react::after {
@@ -1049,7 +1049,7 @@ body {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%) rotate(-60deg);
+  transform: translate(-50%, -50%) rotate(-60deg);
 }
 
 .react .circle {
@@ -1077,7 +1077,7 @@ body {
   height: 400px;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-50%) rotate(-45deg);
+  transform: translate(-50%, -50%) rotate(-45deg);
   border-radius: 50%;
   border: 20px solid white;
   border-right-color: transparent;
@@ -1110,7 +1110,7 @@ body {
   width: 20px;
   height: 250px;
   background-color: white;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
 }
 
 .container-19 .logo .line--4 {
@@ -1151,4 +1151,18 @@ body {
   height: 140px;
   width: 40px;
   background-color: #a5ddac;
+  border-radius: 40%;
+  position: absolute;
+  left: 20px;
+  top: 100px;
+}
+
+.container-20 .icecream .side2 {
+  height: 140px;
+  width: 40px;
+  background-color: #a5ddac;
+  border-radius: 40%;
+  position: absolute;
+  right: 20px;
+  top: 100px;
 }
