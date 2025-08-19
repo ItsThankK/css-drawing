@@ -1167,4 +1167,16 @@ body {
   top: 100px;
 }
 
+.container-20 .icecream .melting {
+  height: 30px;
+  width: 15px;
+  background-color: white;
+  border-radius: 30px;
+  position: absolute;
+  bottom: 0;
+  left: 25px;
+}
 
+.container-20 .icecream .melting2 {
+  left: 110px;
+}
