@@ -1097,4 +1097,7 @@ body {
   height: 50px;
   border-radius: 50%;
   background-color: white;
+  position: absolute;
+  top: 120px;
+  left: 130px;
 }
