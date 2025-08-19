@@ -1289,3 +1289,12 @@ body {
   left: 80%;
 }
 
+.mouthh {
+  width: 96px;
+  height: 96px;
+  background-color: #83342f;
+  border-radius: 16px 16px 50% 50%;
+  position: absolute;
+  left: 36%;
+  top: 50%;
+}
