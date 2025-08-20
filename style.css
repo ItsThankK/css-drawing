@@ -1824,6 +1824,7 @@ body {
   width: 60px;
   background-color: #5aa668;
   border-radius: 90px 90px 0 0;
+  transform: rotate(-50deg);
 }
 
 .clock-ear-left::after {
