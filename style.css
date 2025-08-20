@@ -1665,3 +1665,9 @@ body {
   background-color: #3c2114;
 }
 
+.b-whiskers-left {
+  position: absolute;
+  width: 105px;
+  height: 2px;
+  background-color: #7a3b1a;
+}
