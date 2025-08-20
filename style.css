@@ -1464,7 +1464,7 @@ body {
 }
 
 .container-23 {
-  background: radial-gradient(circle at center, #f0d0d1,rosybrown);
+  background: radial-gradient(circle at center, #f0d0d1, rosybrown);
 }
 
 .b-frame {
@@ -1536,7 +1536,7 @@ body {
   position: relative;
   top: 80%;
   left: 50%;
-  transform: translate(-50%,-50%) rotate(45deg);
+  transform: translate(-50%, -50%) rotate(45deg);
 }
 
 .b-heart::before {
@@ -1557,4 +1557,15 @@ body {
   background-color: #f0d0d1;
   left: -50%;
   border-radius: 50% 50% 0 50%;
+}
+
+.b-eye-left {
+  position: absolute;
+  width: 20px;
+  height: 10px;
+  border: 3px solid #3c2114;
+  border-top: none;
+  border-radius: 0 0 100px 100px;
+  top: 35%;
+  left: 32%;
 }
