@@ -1580,3 +1580,12 @@ body {
   top: 35%;
   right: 32%;
 }
+
+.b-eye-lashes {
+  position: absolute;
+  width: 2px;
+  height: 8px;
+  background-color: #3c2114;
+  bottom: -8px;
+  left: 48%;
+}
