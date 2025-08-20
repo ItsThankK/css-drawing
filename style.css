@@ -1942,3 +1942,10 @@ body {
   background-color: blue;
 }
 
+.pot-bottom {
+  width: 100%;
+  height: 70%;
+  background-color: #ce4f17;
+  position: absolute;
+  bottom: 0;
+}
