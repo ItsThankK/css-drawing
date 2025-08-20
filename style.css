@@ -1891,8 +1891,18 @@ body {
   top: -195px;
 }
 
+.book--3 {
+  width: 40px;
+  height: 180px;
+  background-color: #5aa668;
+  position: absolute;
+  left: 290px;
+  top: -180px;
+}
+
 .book--1::before,
-.book--2::before {
+.book--2::before,
+.book--3::before {
   content: "";
   width: 100%;
   height: 20px;
@@ -1903,7 +1913,8 @@ body {
 }
 
 .book--1::after,
-.book--2::after {
+.book--2::after,
+.book--3::after {
   content: "";
   width: 50%;
   height: 100%;
