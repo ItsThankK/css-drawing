@@ -1642,4 +1642,5 @@ body {
   background-color: #3c2114;
   left: 42%;
   top: 42%;
+  border-radius: 100% 100% 40% 40%;
 }
