@@ -1507,3 +1507,13 @@ body {
   border-radius: 50px 0 0 50px;
   transform: skewY(-5deg);
 }
+
+.b-bow {
+  position: absolute;
+  width: 30px;
+  height: 25px;
+  background-color: #f0d0d1;
+  right: 25%;
+  top: 8%;
+  border-radius: 50% 15% 15% 50%;
+}
