@@ -1933,3 +1933,12 @@ body {
   left: 380px;
   top: -180px;
 }
+
+.pot {
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  bottom: 0;
+  background-color: blue;
+}
+
