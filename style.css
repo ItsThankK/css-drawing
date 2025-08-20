@@ -25,7 +25,8 @@ body {
 .container-19,
 .container-20,
 .container-21,
-.container-22 {
+.container-22,
+.container-23 {
   height: 100vh;
   width: 100%;
   display: flex;
@@ -1460,4 +1461,8 @@ body {
   clip-path: polygon(50% 0, 100% 100%, 0 100%);
   top: -5%;
   left: 48%;
+}
+
+.container-23 {
+  background: radial-gradient(circle at center, gold, silver, wheat, rosybrown);
 }
