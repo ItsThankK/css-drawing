@@ -1464,5 +1464,13 @@ body {
 }
 
 .container-23 {
-  background: radial-gradient(circle at center, gold, silver, wheat, rosybrown);
+  background: radial-gradient(circle at center, #f0d0d1,rosybrown);
+}
+
+.b-frame {
+  width: 350px;
+  height: 420px;
+  background-color: #f0d0d1;
+  border: 20px solid white;
+  position: relative;
 }
