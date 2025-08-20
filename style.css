@@ -1881,3 +1881,15 @@ body {
   left: 210px;
   top: -170px;
 }
+
+.book--1::before {
+  content: "";
+  width: 100%;
+  height: 20px;
+  background-color: #e9e6c9;
+  position: absolute;
+  top: 20px;
+  left: 0;
+}
+
+
