@@ -1496,3 +1496,14 @@ body {
   border-radius: 0 50px 50px 0;
   transform: skewY(5deg);
 }
+
+.b-arm-right {
+  position: absolute;
+  width: 45%;
+  height: 20%;
+  background-color: #7a3b1a;
+  right: 0;
+  bottom: 10%;
+  border-radius: 50px 0 0 50px;
+  transform: skewY(-5deg);
+}
