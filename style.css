@@ -1612,3 +1612,9 @@ body {
   transform: rotate(-20deg);
 }
 
+.b-muzzle {
+  position: absolute;
+  width: 87px;
+  height: 55px;
+  background-color: #ffd49d;
+}
