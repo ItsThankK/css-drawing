@@ -1939,7 +1939,6 @@ body {
   height: 50%;
   position: absolute;
   bottom: 0;
-  background-color: blue;
 }
 
 .pot-bottom {
@@ -1948,4 +1947,12 @@ body {
   background-color: #ce4f17;
   position: absolute;
   bottom: 0;
+}
+
+.pot-top {
+  width: 150%;
+  height: 30%;
+  background-color: #a03d12;
+  position: absolute;
+  left: -25%;
 }
