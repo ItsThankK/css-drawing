@@ -1644,3 +1644,13 @@ body {
   top: 42%;
   border-radius: 100% 100% 40% 40%;
 }
+
+.b-teeth {
+  position: absolute;
+  left: 44%;
+  top: 52%;
+  width: 44px;
+  height: 40px;
+  background-color: white;
+  border-radius: 5px;
+}
