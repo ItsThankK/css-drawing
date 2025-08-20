@@ -1516,6 +1516,7 @@ body {
   right: 25%;
   top: 8%;
   border-radius: 50% 15% 15% 50%;
+  transform: rotate(10deg);
 }
 
 .b-bow::before {
