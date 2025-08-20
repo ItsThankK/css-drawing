@@ -1696,3 +1696,35 @@ body {
   background-color: #7a3b1a;
   transform: rotate(-20deg);
 }
+
+.b-whiskers-right {
+  position: absolute;
+  right: 10%;
+  top: 48%;
+  width: 105px;
+  height: 2px;
+  background-color: #7a3b1a;
+  transform: rotate(-10deg);
+}
+
+.b-whiskers-right::before {
+  content: "";
+  position: absolute;
+  top: 15px;
+  right: 2px;
+  width: 100%;
+  height: 100%;
+  background-color: #7a3b1a;
+  transform: rotate(10deg);
+}
+
+.b-whiskers-right::after {
+  content: "";
+  position: absolute;
+  top: 30px;
+  right: 5px;
+  width: 100%;
+  height: 100%;
+  background-color: #7a3b1a;
+  transform: rotate(20deg);
+}
