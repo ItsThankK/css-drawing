@@ -1823,6 +1823,7 @@ body {
   height: 30px;
   width: 60px;
   background-color: #5aa668;
+  border-radius: 90px 90px 0 0;
 }
 
 .clock-ear-left::after {
@@ -1833,4 +1834,5 @@ body {
   width: 15px;
   height: 8px;
   background-color: #9d374f;
+  border-radius: 90px 90px 0 0;
 }
