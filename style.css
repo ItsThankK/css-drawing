@@ -1654,3 +1654,13 @@ body {
   background-color: white;
   border-radius: 5px;
 }
+
+.b-teeth::before {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #3c2114;
+}
