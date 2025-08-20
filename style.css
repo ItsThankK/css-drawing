@@ -1589,3 +1589,14 @@ body {
   bottom: -8px;
   left: 48%;
 }
+
+.b-eye-lashes::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: inherit;
+  left: -10px;
+  top: -2px;
+  transform: rotate(20deg);
+}
