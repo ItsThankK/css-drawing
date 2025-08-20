@@ -1757,3 +1757,9 @@ body {
 .container-24 {
   background-color: wheat;
 }
+
+.shelf {
+  width: 520px;
+  height: 20px;
+  background-color: #5a3f21;
+}
