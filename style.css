@@ -1861,3 +1861,14 @@ body {
   transform: rotate(30deg);
   z-index: -1;
 }
+
+.clock-foot-right {
+  height: 50px;
+  width: 12px;
+  background-color: #5a3f21;
+  position: absolute;
+  right: 20px;
+  bottom: -25px;
+  transform: rotate(-30deg);
+  z-index: -1;
+}
