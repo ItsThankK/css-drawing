@@ -1685,3 +1685,14 @@ body {
   background-color: #7a3b1a;
   transform: rotate(-10deg);
 }
+
+.b-whiskers-left::after {
+  content: "";
+  position: absolute;
+  top: 30px;
+  left: 5px;
+  width: 100%;
+  height: 100%;
+  background-color: #7a3b1a;
+  transform: rotate(-20deg);
+}
