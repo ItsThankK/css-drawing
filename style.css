@@ -1795,4 +1795,10 @@ body {
   height: 50px;
   background-color: #47321a;
   transform: translate(-50%,-100%);
+  transform-origin: bottom;
+}
+
+.hour-hand {
+  height: 30px;
+  transform: translate(-50%,-100%) rotate(45deg);
 }
