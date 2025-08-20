@@ -1956,3 +1956,12 @@ body {
   position: absolute;
   left: -25%;
 }
+
+.plant-left {
+  width: 45%;
+  height: 35%;
+  background-color: #5aa668;
+  position: absolute;
+  bottom: 50%;
+  border-radius: 50% 50% 0 0;
+}
