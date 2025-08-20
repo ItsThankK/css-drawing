@@ -1485,3 +1485,14 @@ body {
   transform: translateX(-50%);
   border-radius: 50% 50% 0 0;
 }
+
+.b-arm-left {
+  position: absolute;
+  width: 45%;
+  height: 20%;
+  background-color: #7a3b1a;
+  left: 0;
+  bottom: 10%;
+  border-radius: 0 50px 50px 0;
+  transform: skewY(5deg);
+}
