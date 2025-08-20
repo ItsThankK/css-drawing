@@ -1667,7 +1667,10 @@ body {
 
 .b-whiskers-left {
   position: absolute;
+  left: 10%;
+  top: 48%;
   width: 105px;
   height: 2px;
   background-color: #7a3b1a;
+  transform: rotate(10deg);
 }
