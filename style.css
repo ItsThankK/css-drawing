@@ -2179,4 +2179,7 @@ body {
   background-color: white;
   top: 330px;
   left: 10px;
+  transform: rotate(15deg);
+  border-radius: 10%;
+  border: 1px solid black;
 }
