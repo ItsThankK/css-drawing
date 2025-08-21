@@ -2069,4 +2069,11 @@ body {
   left: 30px;
 }
 
+.h-f-side2 {
+  position: absolute;
+  width: 40px;
+  height: 60px;
+  background-color: blue;
+}
+
 
