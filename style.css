@@ -2139,3 +2139,12 @@ body {
   border-top: 1px solid black;
   transform: rotate(40deg);
 }
+
+.h-mouth-part4 {
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  background-color: red;
+  top: 200px;
+  left: 130px;
+}
