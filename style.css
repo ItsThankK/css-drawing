@@ -2159,3 +2159,11 @@ body {
   top: 260px;
   left: 80px;
 }
+
+.h-neck {
+  position: absolute;
+  width: 125px;
+  height: 150px;
+  background-color: #fed90f;
+  
+}
