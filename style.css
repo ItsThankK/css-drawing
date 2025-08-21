@@ -2147,4 +2147,6 @@ body {
   background-color: red;
   top: 200px;
   left: 130px;
+  border-right: 1px solid black;
+  border-radius: 0 70% 0 0;
 }
