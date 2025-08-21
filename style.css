@@ -2084,8 +2084,12 @@ body {
   position: absolute;
   width: 60px;
   height: 32px;
-  background-color: red;
+  background-color: #fed90f;
   top: 175px;
   left: 130px;
+  border-radius: 0 100px 100px 0;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
 }
 
