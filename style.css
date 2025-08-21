@@ -2150,3 +2150,10 @@ body {
   border-right: 1px solid black;
   border-radius: 0 70% 0 0;
 }
+
+.h-mouth-part5 {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: brown;
+}
