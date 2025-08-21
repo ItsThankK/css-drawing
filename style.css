@@ -1986,3 +1986,12 @@ body {
   height: 405px;
   background-color: green;
 }
+
+.h-forehead {
+  position: absolute;
+  width: 170px;
+  height: 200px;
+  background-color: #fed90f;
+  border: 1px solid black;
+  top: 10px;
+}
