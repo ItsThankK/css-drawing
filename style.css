@@ -2172,3 +2172,11 @@ body {
   transform: rotate(2deg);
 }
 
+.h-collar-left {
+  position: absolute;
+  width: 110px;
+  height: 60px;
+  background-color: white;
+  top: 330px;
+  left: 10px;
+}
