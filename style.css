@@ -2133,4 +2133,9 @@ body {
   width: 35px;
   height: 48px;
   background-color: pink;
+  top: 230px;
+  left: 165px;
+  border-radius: 10%;
+  border-top: 1px solid black;
+  transform: rotate(40deg);
 }
