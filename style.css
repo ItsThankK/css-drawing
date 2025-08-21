@@ -2028,3 +2028,13 @@ body {
   left: 120px;
   top: 110px;
 }
+
+.h-pupil-right {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: black;
+}
