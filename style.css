@@ -2104,3 +2104,15 @@ body {
   border: 1px solid black;
 }
 
+.h-mouth-part1 {
+  position: absolute;
+  width: 20px;
+  height: 30px;
+  background-color: beige;
+  top: 62px;
+  left: 98px;
+  border-radius: 50%;
+  border-right: 1px solid black;
+  transform: rotate(15deg);
+}
+
