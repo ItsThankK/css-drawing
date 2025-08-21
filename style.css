@@ -2116,4 +2116,11 @@ body {
   transform: rotate(15deg);
 }
 
-
+.h-mouth-part2 {
+  position: absolute;
+  width: 120px;
+  height: 60px;
+  background-color: white;
+  top: 20px;
+  left: 30px;
+}
