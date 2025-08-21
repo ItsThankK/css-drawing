@@ -2165,5 +2165,10 @@ body {
   width: 125px;
   height: 150px;
   background-color: #fed90f;
-  
+  top: 200px;
+  left: 28px;
+  border-left: 1px solid black;
+  border-right: solid 1px black;
+  transform: rotate(2deg);
 }
+
