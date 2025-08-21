@@ -2218,3 +2218,13 @@ body {
    border-left: 1px solid black;
    border-radius: 50% 0 0 50%;
 }
+
+.h-ear::after {
+  content: "";
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 5px;
+  left: 8px;
+  border-bottom: 1px solid black;
+}
