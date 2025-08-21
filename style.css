@@ -2196,3 +2196,14 @@ body {
   transform: rotate(-20deg);
 }
 
+.h-ear {
+  position: relative;
+  width: 32px;
+  height: 37px;
+  top: 200px;
+  left: 10px;
+  background-color: #fed90f;
+  border-radius: 50%;
+  transform: rotate(10deg);
+  border: 1px solid black;
+}
