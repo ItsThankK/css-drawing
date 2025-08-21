@@ -2074,6 +2074,9 @@ body {
   width: 40px;
   height: 60px;
   background-color: blue;
+  top: 165px;
+  left: 22px;
+  transform: rotate(-11deg);
 }
 
 
