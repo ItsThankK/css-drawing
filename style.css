@@ -1994,4 +1994,6 @@ body {
   background-color: #fed90f;
   border: 1px solid black;
   top: 10px;
+  border-radius: 60%/50%;
+  transform: rotate(-18deg);
 }
