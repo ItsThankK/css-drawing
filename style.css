@@ -2060,6 +2060,11 @@ body {
   background-color: black;
 }
 
-
+.h-f-side1 {
+  position: absolute;
+  width: 140px;
+  height: 60px;
+  background-color: red;
+}
 
 
